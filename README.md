@@ -36,7 +36,6 @@ By analyzing historical sales volume, store turnovers, and retailer-specific beh
 The project follows a robust Data Science lifecycle:
 
 1. **Data Engineering:**
-   * Outlier handling via Winsorization to prevent model distortion from extreme sales peaks.
    * Implementation of Scikit-Learn Pipelines for seamless data flow.
 
 2. **Exploratory Data Analysis (EDA):**
@@ -44,7 +43,7 @@ The project follows a robust Data Science lifecycle:
    * Correlation mapping to identify multi-collinearity between sales volume and value.
 
 3. **Model Benchmarking:**
-   * Tested 6 algorithms: Logistic Regression, Random Forest, XGBoost, SVM, KNN, and Decision Trees.
+   * Tested 7 algorithms:DNN, Logistic Regression, Random Forest, XGBoost, SVM, KNN, and Decision Trees.
 
 4. **Model Selection:**
    * Evaluation based on ROC-AUC to ensure class discrimination in a retail context.
