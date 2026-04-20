@@ -25,7 +25,7 @@ By analyzing historical sales volume, store turnovers, and retailer-specific beh
 │   └── Best_model/                  # Production artifacts
 │       ├── best_model.pkl           # Serialized Random Forest Pipeline
 │       └── plots/                   # Exported High-Res Visualizations
-├── product_display_prediction.ipynb  # Full End-to-End Pipeline
+├── display_prediction.ipynb  # Full End-to-End Pipeline
 ├── README.md                        # Project Documentation
 └── requirements.txt                 # Dependency list
 ```
